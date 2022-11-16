@@ -11,3 +11,4 @@ Type the name of the country
     npx @lukab15/holidates {Country}
 
     
+[npm page](https://www.npmjs.com/package/@lukab15/holidates)
